@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMWebApp", "SMWebApp\SMWebApp.csproj", "{B4D37595-CEF4-4C87-AC5A-75F4C463AFAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SMWebApp.Infrastructure", "SMWebApp.Infrastructure\SMWebApp.Infrastructure.csproj", "{88C37038-F06A-4BE4-86D7-8F9BF2CCF87A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B4D37595-CEF4-4C87-AC5A-75F4C463AFAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4D37595-CEF4-4C87-AC5A-75F4C463AFAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4D37595-CEF4-4C87-AC5A-75F4C463AFAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C37038-F06A-4BE4-86D7-8F9BF2CCF87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C37038-F06A-4BE4-86D7-8F9BF2CCF87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C37038-F06A-4BE4-86D7-8F9BF2CCF87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C37038-F06A-4BE4-86D7-8F9BF2CCF87A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
